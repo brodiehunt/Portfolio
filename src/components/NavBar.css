@@ -1,0 +1,67 @@
+.nav-bar {
+  height: 10vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+  z-index: 5;
+  background-color: black;
+  
+}
+
+.logo {
+  width: 10%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.name-logo {
+  font-size: 1.5em;
+}
+
+.center-space {
+  height: 100%;
+  width: 60%;
+}
+
+.icon-links {
+  height: 100%;
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon-github {
+  display: inline-block;
+  
+}
+
+.icon-github :hover {
+  
+  cursor: pointer;
+}
+
+.icon-linkedin {
+  display: inline-block;
+  
+}
+
+.icon-linkedin :hover {
+  
+  cursor: pointer;
+}
+
+.icon-twitter {
+  display: inline-block;
+  
+  
+}
+
+.icon-twitter :hover {
+  
+  cursor: pointer;
+}

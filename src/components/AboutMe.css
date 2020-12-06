@@ -1,0 +1,37 @@
+.about-me {
+  height: 90vh;
+  width: 100vw;
+}
+
+.about-me-title {
+  border-right: 1px solid white;
+  position: absolute;
+  height: 50vh;
+  width: 37vw;
+  top: 25vh;
+  left: 15vw;
+}
+
+.about-me-content {
+  width: 90%;
+  font-size: 1.5em;
+}
+
+.title {
+  font-size: 4em;
+  margin-top: 0;
+}
+
+.image-div {
+  position: absolute;
+  width: 25vw; 
+  height: 50vh;
+  top: 25vh;
+  right: 15vw;
+}
+
+img {
+  min-width: 100%;
+  max-width: 100%;
+  height: auto;
+}

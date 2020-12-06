@@ -1,0 +1,48 @@
+.tech-stack {
+  height: 90vh;
+  width: 100vw;
+}
+
+.tech-stack-title {
+  border-right: 1px solid white;
+  position: absolute;
+  height: 50vh;
+  width: 37vw;
+  top: 25vh;
+  left: 15vw;
+}
+
+.icons-containers {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  top: 20%;
+  height: 80%;
+  width: 100%;
+  right: 2px;
+  
+}
+
+.row {
+  height: 32%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.icon-container {
+  height: 90%;
+  margin-right: 10px;
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgba(255,255,255, 0.1);
+}
+
+
+
+
+

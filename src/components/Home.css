@@ -1,0 +1,32 @@
+.home {
+  width: 100vw;
+  height: 90vh;
+  z-index: 1;
+}
+
+.name-title {
+  border-right: 1px solid white;
+  position: absolute;
+  height: 50vh;
+  width: 37vw;
+  top: 25vh;
+  left: 15vw;
+  margin-top: 0;
+}
+
+.statement {
+  height: 20vh;
+  width: 20vw;
+  font-size: 2em;
+  position: absolute;
+  bottom: 25vh;
+  right: 25vh;
+
+}
+
+.name {
+  font-size: 4em;
+  margin-top: 0;
+}
+
+

@@ -1,0 +1,71 @@
+.project {
+  height: 90vh;
+  width: 100vw;
+}
+
+.project-title {
+  border-right: 1px solid white;
+  position: absolute;
+  height: 50vh;
+  width: 37vw;
+  top: 25vh;
+  left: 15vw;
+}
+
+.top-line {
+  width: 30%;
+  height: 5px;
+  background-color: white;
+}
+
+.bottom-line {
+  margin-top:5px;
+  width: 20%;
+  height: 5px;
+  background-color: white;
+}
+.project-content {
+  width: 90%;
+  font-size: 1.5em;
+  margin-top: 0.67em;
+}
+
+.title {
+  font-size: 4em;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.video-container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 25vh;
+  right: 15vw;
+  height: 48vh;
+  width: 30vw;
+  background-color: rgba(255,255,255, 0.3);
+  border-radius: 25px;
+
+}
+
+.video {
+  width: 100%;
+
+}
+
+.link-icons {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.next :hover {
+  cursor: pointer;
+}
+
+.next {
+  position: absolute;
+  bottom: 5vh;
+  right: 46.5vw;
+
+}

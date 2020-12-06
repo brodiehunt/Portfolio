@@ -1,0 +1,10 @@
+.side-nav {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 20vh;
+  top: 40vh;
+  left: 3vw;
+  border-left: 2px solid white;
+}
